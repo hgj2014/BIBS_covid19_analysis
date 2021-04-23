@@ -3,5 +3,8 @@
 
 
 ## Trajectory Analysis
+./trajectory
+
 
 ## Korea Analysis
+./korea
